@@ -1,0 +1,50 @@
+ Spring (família spring framework)
+    - Curva de aprendizado:
+    A existência de um ecossistema vívido é um dos fatores que destacam o Java diante
+    de outras tecnologias. Não há necessidade de um Desenvolvedor saber de todos
+    os frameworks e bibliotecas, porém há algumas bibliotecas que são essenciais
+    no desenvolvimento de um projeto como Hibernate, Spring, Spring Boot, GWT
+    JSF, que o desenvolvedor deverá ter o conhecimento para criar aplicações
+    roubustas, como ECommerces, aplicações bancárias, finanças de forma eficiente.
+
+    Um estudo de 2020 (https://www.jrebel.com/resources/java-developer-productivity-report-2020)
+    mostra que o Spring Boot é a plataforma em tempo de execução adotada por
+    cerca de 83% das aplicações, com 30% das aplicações globais usando essa tecnologia.
+
+    A curva de aprendizado ela pode ser maior, pois para uma pessoa que não tem
+    o conhecimento do Spring framework, é complexo setar uma aplicação básica
+    e com suas n versões o processo pode se tornar ainda mais moroso.
+
+    [Imagem spring framework ecosystem]
+
+    Por ser uma tecnologia antiga e ainda sendo escrita, para desenvolvedores, 
+    pode ser obscuro a forma com que o framework trabalha em nível de runtime,
+    com injeção de dependências, com uma certa complexidade debugar.
+
+    - Microsserviços
+
+        [microservicos image]
+
+        - Microsserviços tem como base entregar pequenos pacotes das aplicações
+        de forma moderna, escalável, de fácil manutenção, promovendo produtividade,
+        alinhamento de negocio. E com o Spring Boot, é possível criar Microsserviços
+        com interações rápidas, além ter uma ampla documentação para criação de serviços
+        em nuvem com Spring Cloud;
+
+        [spring cloud image]
+
+        Métricas podem ser medidas com o Micrometer, para promover insights através de
+        plataformas como Prometheus, Atlas.
+  
+    - Documentação
+        - A Documentação pode ser encontrada aqui:
+        https://docs.spring.io/spring-framework/docs/current/reference/html/
+        
+        - O repositório no github possui 33k ramificações, 46k estrelas onde
+        há toda a documentação que abrangem todas as referências do Spring. 
+
+        https://spring.io/microservices
+
+    - Contemplando Suporte a banco de dados em nuvem:
+        
+    https://scand.medium.com/is-the-spring-framework-worth-learning-in-2020-b6cd9a255ad1

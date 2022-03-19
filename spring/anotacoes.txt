@@ -46,5 +46,13 @@
         https://spring.io/microservices
 
     - Contemplando Suporte a banco de dados em nuvem:
-        
+
+        Há o Spring Cloud que é uma biblioteca do Spring, para criar serviços e 
+        aplicações distribuídas, trazendo, gerenciamento de configuração, 
+        rotas inteligentes, micro-proxies, sessões distribuidas.
+
+        O Spring Cloud fornece suport ao Apache Yarn, Kubernetes, Mesos, Cloud Foundry
+        além de permitir brokers como o Kafka e o RabbitMQ.
+
+
     https://scand.medium.com/is-the-spring-framework-worth-learning-in-2020-b6cd9a255ad1

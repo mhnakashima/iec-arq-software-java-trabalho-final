@@ -54,5 +54,10 @@
         O Spring Cloud fornece suport ao Apache Yarn, Kubernetes, Mesos, Cloud Foundry
         além de permitir brokers como o Kafka e o RabbitMQ.
 
+    - Custos envolvidos (pessoal, licença etc)
+
+        O Spring é gratuito, é possível modificar e usar em um projeto comercial.
+        
+        
 
     https://scand.medium.com/is-the-spring-framework-worth-learning-in-2020-b6cd9a255ad1
